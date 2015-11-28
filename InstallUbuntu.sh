@@ -1,4 +1,4 @@
-# Install script for Ubuntu, inspired by @oalsing
+# Install script for Ubuntu, inspired by @oalsing but for my own needs.
 # Michel Tabari 2015
 # !/bin/sh
 
