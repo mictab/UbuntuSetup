@@ -48,6 +48,9 @@ echo "Done"
 echo "Now we will proceed to install a bunch of stuff for you. Please enter any key to continue, otherwise close the terminal"
 read ANSWER
 
+# Change directory to root
+cd ~
+
 echo "Installing....."
 sudo apt-get install spotify-client texlive vim vim-gnome vlc dropbox filezilla gcc gdb gdm flashplugin-installer idle-python3.3 git golang xclip putty mpg321 skype gprolog ghc unrar wine htop vim awesome awesome-extra arandr
 
